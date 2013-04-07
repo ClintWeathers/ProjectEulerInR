@@ -19,5 +19,6 @@ list <- ifelse(isprime(x), x, NA)
 nona <- na.omit(list)
 
 sum(as.numeric(nona))
+# This has to be done as numeric because R pukes on that big a list of integers.
 
 # [1] 142913828922
