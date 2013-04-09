@@ -42,4 +42,5 @@ result <- sum(score * (1:l))
 # of names, and sums those. 
 
 print(result)
+# [1] 871198282
 # Voila. 
