@@ -1,3 +1,6 @@
+# This is a new one for me, not a rework of one previously done in Python or Perl.
+
+
 # using this for the intToBin() function.
 library(R.utils)
 
